@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Krishnochura |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/krishnochura/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা আঁধারে খুঁজি তোমার সীমানা,
+> বুকের গভীরে বাজে গোপন বেদনা।
+> নীলচে ধোঁয়ায় মেশে স্মৃতির ইশারা,
+> তুমি ছাড়া এ মন বড় দিশাহারা।
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
