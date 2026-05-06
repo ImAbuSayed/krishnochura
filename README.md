@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/krishnochura/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Krishnochura](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Krishnochura](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
