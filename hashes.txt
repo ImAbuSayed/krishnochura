@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Krishnochura
+
+This log tracks the cryptographic history and versioning for the song **Krishnochura** (krishnochura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:48:36.790415 | `v1` | `62425c53ab220898490fb62f3c677fb0610dcccdb29925f42efabd8faad5870a` | `d98b2e3d2ce6078cc75c647056ee764e2774af8e03526f9a8d587efbe1687ed0` | `2026-05-08_krishnochura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
